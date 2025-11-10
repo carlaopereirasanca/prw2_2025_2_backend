@@ -1,8 +1,5 @@
 
-// Não precisamos mais disso...
-// import http from "http";
-
-// Mas precisamos do nosso app.js !
+import "dotenv/config";
 import app from "./src/app.js";
 
 // Definindo a porta:
